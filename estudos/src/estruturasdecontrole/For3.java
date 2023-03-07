@@ -5,9 +5,9 @@ public class For3 {
 	public static void main(String[] args) {
 		
 		
-		//PARA PODER USAR A VARIAVEL DO FOR FORA DELE É NECESSÁRIO DECLARARA FORA DO LAÇO POR EXEMPLO.
+		//PARA PODER USAR A VARIAVEL DO FOR FORA DELE ɉ NECESSÁRIO DECLARARA FORA DO LA�O POR EXEMPLO.
 		//INT I = 0;
-		//for(; i < 10; i ++) { } LAÇO FECHADO AQUI
+		//for(; i < 10; i ++) { } LA�O FECHADO AQUI
 		// System.out.println(i); E AQUI AINDA CONSEGUIMOS PUXAR A VARIAVEL
 		//
 		for(int i =0; 	i < 10; i ++) {
